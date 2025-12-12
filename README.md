@@ -1,4 +1,4 @@
-🚀 Real-Time Chat Application
+🚀 Chat Application
 A simple, real-time chat application built with WebSocket for instant messaging across multiple rooms. Users can join rooms, send messages with basic formatting (bold, italics, links), and receive notifications for user joins/leaves. Perfect for learning WebSocket basics or as a starting point for more advanced chat features.
 
 ---
@@ -79,5 +79,4 @@ Chat_application/
 ## ⭐ Support
 
 If you like this project, please ⭐ the repo!
-README_TEMPLATE.md
-Displaying README_TEMPLATE.md.                       give a file like this for above chat appication 
+                     
